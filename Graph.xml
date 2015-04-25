@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Graph>
+   <vertex name="Cairo" />
+   <vertex name="Alexandria" />
+   <vertex name="Mansoura" />
+   <vertex name="Tanta" />
+   <edge   from="Cairo" to="Alexandria" weight="250"/>
+   <edge   from="Cairo" to="Mansoura" weight="270"/>
+   <edge   from="Alexandria" to="Tanta" weight="100"/>
+   <edge   from="Mansoura" to="Cairo" weight="300"/>
+   <edge   from="Alexandria" to="Cairo" weight="280"/>
+
+</Graph>
